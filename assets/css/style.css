@@ -95,7 +95,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("../images/pexels-markusspiske-1089438.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -186,7 +186,8 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
-}
+    text-align: center;
+   }
 
 .cv-pdf i {
     font-size: 18px;
@@ -216,7 +217,6 @@ footer {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    /* background: #052514; */
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
