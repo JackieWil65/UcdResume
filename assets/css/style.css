@@ -19,7 +19,7 @@
 }
 
 .bg-color-personal-info {
-    background-color: #f4f4f4;
+    background-color: #d8e6e1;
 }
 
 .bg-color-work-history {
@@ -103,7 +103,7 @@ header {
 }
 
 .logo {
-    background: url("../images/pexels-markusspiske-1089438.jpg");
+    background: url("..//images/smalllogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
