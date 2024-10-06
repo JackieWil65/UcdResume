@@ -196,6 +196,7 @@ footer {
     min-height: 120px;
     margin: 0;
     text-align: center;
+    position:-webkit-sticky; position:sticky;
    }
 
 .cv-pdf i {
