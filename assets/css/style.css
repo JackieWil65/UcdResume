@@ -3,7 +3,15 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
-    background-color: #083518;
+    background-color: #041e0d;
+    animation-name: anim1;
+    animation-duration: 2s;
+    animation-timeline: 10s;
+}
+
+@keyframes anim1{
+   from {background-color: #041e0d;}
+   to {background-color: #160773;}
 }
 
 .bg-color-three-reasons {
