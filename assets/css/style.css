@@ -362,8 +362,12 @@ footer {
 .contact-heading {
     font-family: "RocknRoll One", sans-serif;
     font-weight: 300;
+    color: #fff;
     margin-top: 25px;
     margin-bottom: 20px;
+    margin-left: 0%;
+    border-radius: 5%;
+    background-color: rgba(3, 15, 19, 0.848);
 }
 
 .center-form {
