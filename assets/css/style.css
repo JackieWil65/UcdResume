@@ -6,12 +6,12 @@
     background-color: #041e0d;
     animation-name: anim1;
     animation-duration: 2s;
-    animation-timeline: 10s;
+    
 }
 
 @keyframes anim1{
    from {background-color: #041e0d;}
-   to {background-color: #160773;}
+   to {background-color: #045a06;}
 }
 
 .bg-color-three-reasons {
@@ -96,7 +96,8 @@ h4 {
 
 header {
     margin: 0;
-}
+    position:-webkit-sticky; position:sticky; top:0;}
+
 
 .heading {
     margin-left: 50px;
